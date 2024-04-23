@@ -5,7 +5,7 @@ import time
 import threading
 from datetime import datetime, timedelta
 
-token = "6577074968:AAFscysuEa2BTJ8wwrT_taEfdRTQFlXF4-k"
+token = "YOURTOKEN"
 bot = telebot.TeleBot(token)
 
 users = {}
